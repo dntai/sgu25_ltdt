@@ -1,0 +1,2 @@
+Các thao tác trên stack: s.push(x), s.pop(), s.top(), s.empty()
+Các thao tác trên queue: s.push(x), s.pop(), s.front(), s.back(), s.empty()
