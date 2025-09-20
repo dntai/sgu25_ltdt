@@ -37,8 +37,8 @@ void solve(){
 }
 
 int main() {
-    // freopen(FI, "r", stdin);
-    // freopen(FO, "w", stdout);
+    freopen(FI, "r", stdin);
+    freopen(FO, "w", stdout);
     solve();
     return 0;
 }
