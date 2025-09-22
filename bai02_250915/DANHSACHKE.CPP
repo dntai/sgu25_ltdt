@@ -17,9 +17,9 @@ void solve(){
     // doc do thi danh sach canh
     cin >> n;
     // cout << n << endl;
-    adjlist.resize(n);
+    adjlist.resize(n + 1);
     cin.ignore();
-    for(int u=0; u<n; u++){
+    for(int u=1; u<=n; u++){
         int v;
         getline(cin, s);
         // cout << s << endl;
