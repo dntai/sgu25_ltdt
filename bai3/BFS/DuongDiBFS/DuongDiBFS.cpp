@@ -1,10 +1,10 @@
-#include <iostream>
-#include <vector>
-#include <queue>
-#include <algorithm>
-#include <fstream>
-#include <sstream>
-#include <set>
+#include <iostream> // Thư viện nhập xuất cơ bản
+#include <vector>   // Thư viện sử dụng vector
+#include <queue>    // Thư viện sử dụng queue
+#include <algorithm>// Thư viện thuật toán (sắp xếp, đảo ngược, ...)
+#include <fstream>  // Thư viện làm việc với file
+#include <sstream>  // Thư viện xử lý chuỗi
+#include <set>  // Thư viện sử dụng set để tránh cạnh trùng lặp
 
 using namespace std;
 
